@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "M01",
+      "name": "مدیریت",
+      "role": "manager"
+    },
+    {
+      "id": "OP01",
+      "name": "اپراتور 1",
+      "role": "operator"
+    },
+    {
+      "id": "OP02",
+      "name": "اپراتور 2",
+      "role": "operator"
+    },
+    {
+      "id": "OP03",
+      "name": "اپراتور 3",
+      "role": "operator"
+    }
+  ],
+  "production": [],
+  "sales": [],
+  "customers": [],
+  "inventory": [],
+  "payments": [],
+  "operations": [],
+  "alerts": []
+}
