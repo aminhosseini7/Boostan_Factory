@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "name": "Factory Manager",
+      "role": "manager",
+      "permissions": "all"
+    },
+    {
+      "name": "Operator 1",
+      "role": "operator",
+      "permissions": [
+        "create_production",
+        "create_sales"
+      ]
+    },
+    {
+      "name": "Operator 2",
+      "role": "operator",
+      "permissions": [
+        "create_production",
+        "create_sales"
+      ]
+    },
+    {
+      "name": "Operator 3",
+      "role": "operator",
+      "permissions": [
+        "create_production",
+        "create_sales"
+      ]
+    }
+  ]
+}
